@@ -1,9 +1,17 @@
 
+* {
+    margin: 5px;
+}
+
 .container-fluid {
     display: flex;
     justify-content: space-between;
+    background-color: black;
+    border-radius: 10px;
 }
 
 a {
     text-decoration: none;
+    color: white;
+    padding: 10px;
 }
